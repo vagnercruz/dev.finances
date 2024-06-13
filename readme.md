@@ -30,9 +30,9 @@
 
 ## 📌 Sobre
 
-Aplicação de controle financeiro, com entradas, saídas e total, desenvolvida durante a Maratona Discover que ocorreu durante o mês de Janeiro de 2021. O projeto foi idealizado pela [RocketSeat](https:/www.rocketseat.com.br) e por [Mayk Britto](https://github.com/maykbrito).
+Aplicação de controle financeiro, com entradas, saídas e total.
 
-Você pode consultar o site em **[dev.finances](https://dev-finances-six.vercel.app/)**.
+Você pode consultar o site em **[dev.finances](https://vagnercruz.github.io/dev.finances/)**.
 
 ## 🚀 Tecnologias 
 
@@ -49,13 +49,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [X] Adicionar e remover entrada
 - [X] Dark-theme
 - [x] Animations
-- [ ] Toogle
 
 ## 🔌 Como usar
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/pedrovinhas/dev-finances.git
+$ git clone https://github.com/vagnercruz/dev-finances.git
 
 # Access the project folder
 $ cd dev-finances
@@ -66,5 +65,5 @@ This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for
 
 ---
 <blockquote>
-    Feito por Pedro Henrique Vinhas 🪐
+    Feito por Vagner Matheus da Cruz
 </blockquote>

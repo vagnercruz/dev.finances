@@ -14,11 +14,8 @@
 </div>
 
 <p align="center">
-<a href="https://github.com/Pedrovinhas" target="_blank"><img src="https://img.shields.io/badge/author-pedrovinhas-5B479C?logo=&style=for-the-badge" alt="Github"> </a>
 <img src="https://img.shields.io/github/languages/count/pedrovinhas/dev-finances?color=%235b479c&style=for-the-badge" alt="Linguagens"> 
 <img src="https://img.shields.io/apm/l/vim-mode?color=%235B479C&logo=black&logoColor=black&style=for-the-badge" alt="License">
-<a href="https://rocketseat.com.br/" target="_blank">
-<img src="https://img.shields.io/badge/-RocketSeat-5B479C?logo=&style=for-the-badge" target="_blank" alt="RocketSeat">
 </a>
 </p>
 

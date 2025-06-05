@@ -13,12 +13,6 @@
 </p>
 </div>
 
-<p align="center">
-<img src="https://img.shields.io/github/languages/count/pedrovinhas/dev-finances?color=%235b479c&style=for-the-badge" alt="Linguagens"> 
-<img src="https://img.shields.io/apm/l/vim-mode?color=%235B479C&logo=black&logoColor=black&style=for-the-badge" alt="License">
-</a>
-</p>
-
 <div align="center">
 <img  src="./assets/assets/dev.finance.gif" alt="Exemplo da aplicação">
 </div>
